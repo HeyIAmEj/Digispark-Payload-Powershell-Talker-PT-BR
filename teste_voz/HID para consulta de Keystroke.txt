@@ -1,0 +1,954 @@
+KEYMAP PARA EVITAR BUGS DEVIDO AOS FORMATOS DO TECLADO. CONSULTAS PODEM SER FEITAS AQUI E UTILIZAR O ID NO MÉTODO SENDKEYSTROKE(id)
+
+
+O ID - 0 e - 
+
+O ID - 1 e - 
+
+O ID - 2 e - 
+
+O ID - 3 e - 
+
+O ID - 4 e - a
+
+O ID - 5 e - b
+
+O ID - 6 e - c
+
+O ID - 7 e - d
+
+O ID - 8 e - e
+
+O ID - 9 e - f
+
+O ID - 10 e - g
+
+O ID - 11 e - h
+
+O ID - 12 e - i
+
+O ID - 13 e - j
+
+O ID - 14 e - k
+
+O ID - 15 e - l
+
+O ID - 16 e - m
+
+O ID - 17 e - n
+
+O ID - 18 e - o
+
+O ID - 19 e - p
+
+O ID - 20 e - q
+
+O ID - 21 e - r
+
+O ID - 22 e - s
+
+O ID - 23 e - t
+
+O ID - 24 e - u
+
+O ID - 25 e - v
+
+O ID - 26 e - w
+
+O ID - 27 e - x
+
+O ID - 28 e - y
+
+O ID - 29 e - z
+
+O ID - 30 e - 1
+
+O ID - 31 e - 2
+
+O ID - 32 e - 3
+
+O ID - 33 e - 4
+
+O ID - 34 e - 5
+
+O ID - 35 e - 6
+
+O ID - 36 e - 7
+
+O ID - 37 e - 8
+
+O ID - 38 e - 9
+
+O ID - 39 e - 0
+
+O ID - 40 e - 
+
+
+O ID - 41 e - 
+
+O ID - 42 e -
+
+O ID - 43 e - 	
+
+O ID - 44 e -  
+
+O ID - 45 e - -
+
+O ID - 46 e - =
+
+O ID - 47 e - ´
+
+O ID - 48 e - [
+
+O ID - 49 e - ]
+
+O ID - 50 e - ]
+
+O ID - 51 e - ç
+
+O ID - 52 e - ~
+
+O ID - 53 e - 
+
+o id - 76 E - 
+
+o id - 77 E - 
+
+o id - 78 E - 
+
+O ID - 54 e - ,
+
+O ID - 55 e - .
+
+O ID - 56 e - ;
+
+O ID - 57 e - 
+
+o id - 58 E - 
+
+o id - 59 E - 
+
+o id - 60 E - 
+o id - 61 E - 
+
+o id - 62 E - 22:57 18/09/2021
+
+o id - 63 E - 
+
+o id - 64 E - 
+
+o id - 65 E - 
+
+o id - 66 E - 
+
+o id - 70 E - 
+
+o id - 71 E - 
+
+o id - 72 E - 
+
+o id - 73 E - 
+
+
+
+o id - 75 E - 
+
+
+o id - 98 E - 
+
+o id - 99 E - 
+
+o id - 100 E - \
+
+o id - 101 E - 
+o id - 102 E - 
+
+o id - 103 E - 
+
+o id - 104 E - 
+
+o id - 105 E - 
+
+o id - 106 E - 
+
+o id - 107 E - 
+
+o id - 108 E - 
+
+o id - 109 E - 
+
+o id - 110 E - 
+
+o id - 111 E - 
+
+o id - 112 E - 
+
+o id - 113 E - 
+
+o id - 114 E - 
+
+o id - 115 E - 
+
+o id - 116 E - 
+
+o id - 117 E - 
+
+o id - 118 E - 
+
+o id - 119 E - 
+
+o id - 120 E - 
+
+o id - 121 E - 
+
+o id - 122 E - 
+
+o id - 123 E - 
+
+o id - 124 E - 
+
+o id - 125 E - 
+
+o id - 126 E - 
+
+o id - 127 E - 
+
+o id - 128 E - 
+
+o id - 129 E - 
+
+o id - 130 E - 
+
+o id - 131 E - 
+
+o id - 132 E - 
+
+o id - 133 E - 
+
+o id - 134 E - 
+
+o id - 135 E - 
+
+o id - 136 E - 
+
+o id - 137 E - 
+
+o id - 138 E - 
+
+o id - 139 E - 
+
+o id - 140 E - 
+
+o id - 141 E - 
+
+o id - 142 E - 
+
+o id - 143 E - 
+
+o id - 144 E - 
+
+o id - 145 E - 
+
+o id - 146 E - 
+
+o id - 147 E - 
+
+o id - 148 E - 
+
+o id - 149 E - 
+
+o id - 150 E - 
+
+o id - 151 E - 
+
+o id - 152 E - 
+
+o id - 153 E - 
+
+o id - 154 E - 
+
+o id - 155 E - 
+
+o id - 156 E - 
+
+o id - 157 E - 
+
+o id - 158 E - 
+
+o id - 159 E - 
+
+o id - 160 E - 
+
+o id - 161 E - 
+
+o id - 162 E - 
+
+o id - 163 E - 
+
+o id - 164 E - 
+
+o id - 165 E - 
+
+o id - 166 E - 
+
+o id - 167 E - 
+
+o id - 168 E - 
+
+o id - 169 E - 
+
+o id - 170 E - 
+
+o id - 171 E - 
+
+o id - 172 E - 
+
+o id - 173 E - 
+
+o id - 174 E - 
+
+o id - 175 E - 
+
+o id - 176 E - 
+
+o id - 177 E - 
+
+o id - 178 E - 
+
+o id - 179 E - 
+
+o id - 180 E - 
+
+o id - 181 E - 
+
+o id - 182 E - 
+
+o id - 183 E - 
+
+o id - 184 E - 
+
+o id - 185 E - 
+
+o id - 186 E - 
+
+o id - 187 E - 
+
+o id - 188 E - 
+
+o id - 189 E - 
+
+o id - 190 E - 
+
+o id - 191 E - 
+
+o id - 192 E - 
+
+o id - 193 E - 
+
+o id - 194 E - 
+
+o id - 195 E - 
+
+o id - 196 E - 
+
+o id - 197 E - 
+
+o id - 198 E - 
+
+o id - 199 E - 
+
+o id - 200 E - 
+
+o id - 201 E - 
+
+o id - 202 E - 
+
+o id - 203 E - 
+
+o id - 204 E - 
+
+o id - 205 E - 
+
+o id - 206 E - 
+
+o id - 207 E - 
+
+o id - 208 E - 
+
+o id - 209 E - 
+
+o id - 210 E - 
+
+o id - 211 E - 
+
+o id - 212 E - 
+
+o id - 213 E - 
+
+o id - 214 E - 
+
+o id - 215 E - 
+
+o id - 216 E - 
+
+o id - 217 E - 
+
+o id - 218 E - 
+
+o id - 219 E - 
+
+o id - 220 E - 
+
+o id - 221 E - 
+
+o id - 222 E - 
+
+o id - 223 E - 
+
+o id - 224 E - 
+
+o id - 225 E - 
+
+o id - 226 E - 
+
+o id - 227 E - 
+
+o id - 228 E - 
+
+o id - 229 E - 
+
+o id - 230 E - 
+
+o id - 231 E - 
+
+o id - 232 E - 
+
+o id - 233 E - 
+
+o id - 234 E - 
+
+o id - 235 E - 
+
+o id - 236 E - 
+
+o id - 237 E - 
+
+o id - 238 E - 
+
+o id - 239 E - 
+
+o id - 240 E - 
+
+o id - 241 E - 
+
+o id - 242 E - 
+
+o id - 243 E - 
+
+o id - 244 E - 
+
+o id - 245 E - 
+
+o id - 246 E - 
+
+o id - 247 E - 
+
+o id - 248 E - 
+
+o id - 249 E - 
+
+o id - 250 E - 
+
+o id - 251 E - 
+
+o id - 252 E - 
+
+o id - 253 E - 
+
+o id - 254 E - 
+
+o id - 255 E - 
+
+o id - 256 E - 
+
+o id - 257 E - 
+
+o id - 258 E - 
+
+o id - 259 E - 
+
+o id - 260 E - A
+
+o id - 261 E - B
+
+o id - 262 E - C
+
+o id - 263 E - D
+
+o id - 264 E - E
+
+o id - 265 E - F
+
+o id - 266 E - G
+
+o id - 267 E - H
+
+o id - 268 E - I
+
+o id - 269 E - J
+
+o id - 270 E - K
+
+o id - 271 E - L
+
+o id - 272 E - M
+
+o id - 273 E - N
+
+o id - 274 E - O
+
+o id - 275 E - P
+
+o id - 276 E - Q
+
+o id - 277 E - R
+
+o id - 278 E - S
+
+o id - 279 E - T
+
+o id - 280 E - U
+
+o id - 281 E - V
+
+o id - 282 E - W
+
+o id - 283 E - X
+
+o id - 284 E - Y
+
+o id - 285 E - Z
+
+o id - 286 E - 1
+
+o id - 287 E - 2
+
+o id - 288 E - 3
+
+o id - 289 E - 4
+
+o id - 290 E - 5
+
+o id - 291 E - 6
+
+o id - 292 E - 7
+
+o id - 293 E - 8
+
+o id - 294 E - 9
+
+o id - 295 E - 0
+
+o id - 296 E - 
+
+
+o id - 297 E - 
+
+o id - 298 E -
+
+o id - 299 E - 	
+
+o id - 300 E -  
+
+o id - 301 E - -
+
+o id - 302 E - =
+
+o id - 303 E - ´
+
+o id - 304 E - [
+
+o id - 305 E - ]
+
+o id - 306 E - ]
+
+o id - 307 E - Ç
+
+o id - 308 E - ~
+
+o id - 309 E - 
+
+O ID - 332 e - 
+
+O ID - 333 e - 
+
+O ID - 334 e - 
+
+o id - 310 E - ,
+
+o id - 311 E - .
+
+o id - 312 E - ;
+
+o id - 313 E - 
+
+O ID - 314 e - 
+
+O ID - 315 e - 
+
+O ID - 316 e - 
+O ID - 317 e - 
+
+O ID - 318 e - 22:58 18/09/2021
+
+O ID - 319 e - 
+
+O ID - 320 e - 
+
+O ID - 321 e - 
+
+O ID - 322 e - 
+
+O ID - 326 e - 
+
+O ID - 327 e - 
+
+O ID - 328 e - 
+
+O ID - 329 e - 
+
+
+
+O ID - 331 e - 
+
+O ID - 335 e - O
+
+O ID - 336 e -
+
+O ID - 337 e -   ID - 330 e - o id - 79 E - o
+
+
+
+O ID - 339 e - 
+
+O ID - 340 e - /
+
+O ID - 341 e - *
+
+O ID - 342 e - -
+
+O ID - 343 e - +
+
+O ID - 344 e - 
+
+
+O ID - 345 e - 1
+
+O ID - 346 e - 2
+
+O ID - 347 e - 3
+
+O ID - 348 e - 4
+
+O ID - 349 e - 5
+
+O ID - 350 e - 6
+
+O ID - 351 e - 7
+
+O ID - 352 e - 8
+
+O ID - 353 e - 9
+
+O ID - 354 e - 0
+
+O ID - 355 e - ,
+
+O ID - 356 e - \
+
+O ID - 357 e - 
+O ID - 358 e - 
+
+O ID - 359 e - 
+
+O ID - 360 e - 
+
+O ID - 361 e - 
+
+O ID - 362 e - 
+
+O ID - 363 e - 
+
+O ID - 364 e - 
+
+O ID - 365 e - 
+
+O ID - 366 e - 
+
+O ID - 367 e - 
+
+O ID - 368 e - 
+
+O ID - 369 e - 
+
+O ID - 370 e - 
+
+O ID - 371 e - 
+
+O ID - 372 e - 
+
+O ID - 373 e - 
+
+O ID - 374 e - 
+
+O ID - 375 e - 
+
+O ID - 376 e - 
+
+O ID - 377 e - 
+
+O ID - 378 e - 
+
+O ID - 379 e - 
+
+O ID - 380 e - 
+
+O ID - 381 e - 
+
+O ID - 382 e - 
+
+O ID - 383 e - 
+
+O ID - 384 e - 
+
+O ID - 385 e - 
+
+O ID - 386 e - 
+
+O ID - 387 e - 
+
+O ID - 388 e - 
+
+O ID - 389 e - 
+
+O ID - 390 e - 
+
+O ID - 391 e - 
+
+O ID - 392 e - 
+
+O ID - 393 e - 
+
+O ID - 394 e - 
+
+O ID - 395 e - 
+
+O ID - 396 e - 
+
+O ID - 397 e - 
+
+O ID - 398 e - 
+
+O ID - 399 e - 
+
+O ID - 400 e - 
+
+O ID - 401 e - 
+
+O ID - 402 e - 
+
+O ID - 403 e - 
+
+O ID - 404 e - 
+
+O ID - 405 e - 
+
+O ID - 406 e - 
+
+O ID - 407 e - 
+
+O ID - 408 e - 
+
+O ID - 409 e - 
+
+O ID - 410 e - 
+
+O ID - 411 e - 
+
+O ID - 412 e - 
+
+O ID - 413 e - 
+
+O ID - 414 e - 
+
+O ID - 415 e - 
+
+O ID - 416 e - 
+
+O ID - 417 e - 
+
+O ID - 418 e - 
+
+O ID - 419 e - 
+
+O ID - 420 e - 
+
+O ID - 421 e - 
+
+O ID - 422 e - 
+
+O ID - 423 e - 
+
+O ID - 424 e - 
+
+O ID - 425 e - 
+
+O ID - 426 e - 
+
+O ID - 427 e - 
+
+O ID - 428 e - 
+
+O ID - 429 e - 
+
+O ID - 430 e - 
+
+O ID - 431 e - 
+
+O ID - 432 e - 
+
+O ID - 433 e - 
+
+O ID - 434 e - 
+
+O ID - 435 e - 
+
+O ID - 436 e - 
+
+O ID - 437 e - 
+
+O ID - 438 e - 
+
+O ID - 439 e - 
+
+O ID - 440 e - 
+
+O ID - 441 e - 
+
+O ID - 442 e - 
+
+O ID - 443 e - 
+
+O ID - 444 e - 
+
+O ID - 445 e - 
+
+O ID - 446 e - 
+
+O ID - 447 e - 
+
+O ID - 448 e - 
+
+O ID - 449 e - 
+
+O ID - 450 e - 
+
+O ID - 451 e - 
+
+O ID - 452 e - 
+
+O ID - 453 e - 
+
+O ID - 454 e - 
+
+O ID - 455 e - 
+
+O ID - 456 e - 
+
+O ID - 457 e - 
+
+O ID - 458 e - 
+
+O ID - 459 e - 
+
+O ID - 460 e - 
+
+O ID - 461 e - 
+
+O ID - 462 e - 
+
+O ID - 463 e - 
+
+O ID - 464 e - 
+
+O ID - 465 e - 
+
+O ID - 466 e - 
+
+O ID - 467 e - 
+
+O ID - 468 e - 
+
+O ID - 469 e - 
+
+O ID - 470 e - 
+
+O ID - 471 e - 
+
+O ID - 472 e - 
+
+O ID - 473 e - 
+
+O ID - 474 e - 
+
+O ID - 475 e - 
+
+O ID - 476 e - 
+
+O ID - 477 e - 
+
+O ID - 478 e - 
+
+O ID - 479 e - 
+
+O ID - 480 e - 
+
+O ID - 481 e - 
+
+O ID - 482 e - 
+
+O ID - 483 e - 
+
+O ID - 484 e - 
+
+O ID - 485 e - 
+
+O ID - 486 e - 
+
+O ID - 487 e - 
+
+O ID - 488 e - 
+
+O ID - 489 e - 
+
+O ID - 490 e - 
+
+O ID - 491 e - 
+
+O ID - 492 e - 
+
+O ID - 493 e - 
+
+O ID - 494 e - 
+
+O ID - 495 e - 
+
+O ID - 496 e - 
+
+O ID - 497 e - 
+
+O ID - 498 e - 
+
+O ID - 499 e - 
+
+O ID - 500 e - 
